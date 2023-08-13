@@ -1,0 +1,197 @@
+Name,Tg,SMILES
+Poly(benzyl acrylate),279,C=CC(=O)OCc1ccccc1
+Poly(4-biphenyl acrylate),383,C=CC(=O)Oc2ccc(c1ccccc1)cc2
+Poly(butyl acrylate),219,CCCCOC(=O)C=C
+Poly(sec-butyl acrylate),250,CC(OC(=O)C=C)CC
+Poly(2-tertbutylphenyl acrylate),345,C=CC(=O)Oc1ccccc1C(C)(C)C
+Poly(4-tertbutylphenyl acrylate),344,C=CC(=O)Oc1ccc(C(C)(C)C)cc1
+Poly(2-chlorophenyl acrylate),326,C=CC(=O)O/C/1=C/C=C\C=Cl1
+Poly(4-chlorophenyl acrylate),331,C=CC(=O)Oc1ccc(cc1)Cl
+Poly(4-cyanobenzyl acrylate),317,C=CC(=O)Oc1ccc(C#N)cc1
+Poly(2-cyanoisobutyl acrylate),324,C=CC(=O)OCC(C)C#N
+Poly(2-cyanoethyl acrylate),277,C=CC(=O)OCCC#N
+Poly(2-cyanohexyl acrylate),358,C=CC(=O)OCCCCCCC#N
+Poly(2-cyanoisopropyl acrylate),339,C=CC(=O)OC(C)C#N
+"Poly(1,3-dimethylbutyl acrylate)",258,C=CC(=O)OCC(C)C(C)CC
+Poly(dodecyl acrylate),270,CCCCCCCCCCCCOC(=O)C(=C)C
+Poly(2-ethoxyl-carbonyl-phenyl acrylate),303,C=CC(=O)Oc1ccccc1C(=O)OCC
+Poly(3-ethoxyl-carbonyl-phenyl acrylate),297,C=CC(=O)Oc1cccc(C(=O)OCC)c1
+Poly(3-ethoxypropyl acrylate),218,C=CC(=O)OCCCOCC
+Poly(ethyl acrylate),249,CCOC(=O)C=C
+Poly(fluromethyl acrylate),288,C=CC(=O)OF
+"Poly(1H,1H-heptafluorobutyl acrylate)",243,C=CC(=O)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+"Poly(2,2,3,3,5,5,5-heptafluoro-4-oxapentyl acrylate)",218,C=CC(=O)OCC(F)(F)C(F)(F)C(=O)C(F)(F)F
+Poly(heptafluoro-2-propyl acrylate),283,C=CC(=O)OC(F)(C(F)(F)F)C(F)(F)F
+Poly(2-heptyl acrylate),235,C=CC(=O)OC(C)CCCCC
+Poly(hexadecyl acrylate),308,CCCCCCOC(=O)C=C
+Poly(hexyl acrylate),216,C=CC(=O)OCCCCCC
+Poly(isobutyl acrylate),249,C=CC(=O)OCC(C)C
+Poly(3-methoxybutyl acrylate),217,C=CC(=O)OCC(C)OC
+Poly(3-methoxycarbonylphenyl acrylate),311,C=CC(=O)Oc1cccc(C(=O)OC)c1
+Poly(4-methoxycarbonylphenyl acrylate),340,C=CC(=O)Oc1ccc(C(=O)OC)cc1
+Poly(4-methoxyphenyl acrylate),324,C=CC(=O)Oc1ccc(OC)cc1
+Poly(3-methoxypropyl acrylate),198,C=CC(=O)Oc1ccc(CCCOC)cc1
+Poly(2-methylbutyl acrylate),241,C=CC(=O)OCC(C)CC
+Poly(3-methylbutyl acrylate),228,C=CC(=O)OCCC(C)C
+Poly(2-methylpentyl acrylate),235,C=CC(=O)OCC(C)CCC
+Poly(2-naphthyl acrylate),358,C=CC(=O)Oc2ccc1ccccc1c2
+"Poly(1H,1H-nonafluoro-4-oxahexyl acrylate)",224,C=CC(=O)OCC(F)(F)C(F)(F)C(=O)C(F)(F)C(F)(F)F
+"Poly(1H,1H-nonafluoropentyl acrylate)",236,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+"Poly(1H,1H,5H-octafluoropentyl acrylate)",238,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F
+"Poly(1H,1H-pentafluropropyl acrylate)",247,C=CC(=O)OCC(F)(F)C(F)(F)F
+Poly(3-pentyl acrylate),267,C=CC(=O)OC(CC)CC
+Polyphenylethyl acrylate),270,CC(=C)C(=O)OCCc1ccccc1
+Poly(propyl acrylate),236,CCCOC(=O)C=C
+Poly(tetradecyl acrylate),297,C=CC(=O)OCCCCCCCCCCCCCC
+"Poly(4,4,5,5-tetrafluoro-3-oxapentyl acrylate)",251,C=CC(=O)OCCC(=O)C(F)(F)C(F)F
+Poly(m-totyl acrylate),298,C=CC(=O)Oc1cccc(C)c1
+Poly(o-totyl acrylate),325,C=CC(=O)Oc1ccccc1C
+"Poly(2,2,2trifluoroethyl acrylate)",263,C=CC(=O)OCC(F)(F)F
+"Poly(5,5,5-trifluoro-3-oxapentyl acrylate)",235,C=CC(=O)OCCC(=O)CC(F)(F)F
+"Poly(1H,1H-tridecafluoro-4-oxaoctyl acrylate)",205,C=CC(=O)OCC(F)(F)C(F)(F)C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+"Poly(1H,1H-undecafluorohexyl acrylate)",234,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+Poly(4-butoxycarbonylphenyl acrylate),286,C=CC(=O)Oc1ccc(C(=O)OCCCC)cc1
+"Poly(2,4-dichlorophenyl acrylate)",333,C=CC(=O)Oc1ccc(Cl)cc1Cl
+Poly(4-cyanobutyl acrylate),233,C=CC(=O)OCCCC#N
+Poly(5-cyano-3-oxapentyl acrylate),250,C=CC(=O)OCCC(=O)CC#N
+Poly(3-dimethylaminophenyl acrylate),320,C=CC(=O)Oc1cccc(N(C)C)c1
+Poly(4-ethoxyl-carbonyl-phenyl acrylate),310,C=CC(=O)Oc1ccc(C(=O)OCC)cc1
+Poly(2-ethoxyethyl acrylate),223,C=CC(=O)OCCOCC
+Poly(2-ethylbutyl acrylate),223,C=CC(=O)OCC(CC)CC
+"Poly(5,5,6,6,7,7,7-heptafluoro-3-oxaheptyl acrylate)",228,C=CC(=O)OCCC(=O)CC(F)(F)C(F)(F)C(F)(F)F
+Poly(heptyl acrylate),213,CCCCCCCOC(=O)C=C
+"Poly(1H,1H,3H-hexaflurobutyl acrylate)",251,C=CC(=O)OCC(F)(F)C(F)C(F)(F)F
+Poly(isopropyl acrylate),270,CC(C)OC(=O)C=C
+Poly(2-methoxycarbonylphenyl acrylate),319,C=CC(=O)Oc1ccccc1C(=O)OC
+Poly(2-methoxyethyl acrylate),223,CCOCOC(=O)C(=C)C
+Poly(methyl acrylate),283,COC(=O)C=C
+Poly(nonyl acrylate),215,C=CC(=O)OCCCCCCCCC
+Poly(n-pentyl acrylate),216,C=CC(=O)OCCCCC
+Poly(phenyl acrylate),330,CC(=C)C(=O)Oc1ccccc1
+"Poly(7,7,8,8-tetrafluoro-3,6-dioxaoctyl acrylate)",233,C=CC(=O)OCCC(=O)CCC(=O)C(F)(F)C(F)F
+Poly(p-totyl acrylate),316,C=CC(=O)Oc1ccc(C)cc1
+Poly(2-cyanoheptyl acrylate),389,C=CC(=O)OCC(C#N)CCCCC
+Poly(4-benzoylstyrene),371,C=Cc2ccc(C(=O)c1ccccc1)cc2
+Poly(2-butoxycarbonylstyrene),339,C=Cc1ccccc1C(=O)OCCCC
+Poly(4-butoxycarbonylstyrene),349,C=Cc1ccc(C(=O)OCCCC)cc1
+Poly(5-tert-butyl-2-methystyrene),360,C=Cc1cc(C(C)(C)C)ccc1C
+Poly(4-sec-butylstyrene),359,C=Cc1ccc(C(C)CCC)cc1
+Poly(4-butyrylstyrene),347,C=Cc1ccc(C(=O)CCC)cc1
+Poly(4-diethylcarbamoylstyrene),375,C=Cc1ccc(C(=O)N(CC)CC)cc1
+Poly(4-ethoxycarbonylstyrene),367,C=Cc1ccc(C(=O)OCC)cc1
+Poly(2-ethoxymethylstyrene),347,C=Cc1ccccc1CCOC
+Poly(4-ethoxymethylstyrene),359,C=Cc1ccc(CCOC)cc1
+Poly(4-hexanoylstyrene),339,C=Cc1ccc(C(=O)CCCCC)cc1
+Poly(2-hexyloxycarbonylstyrene),318,C=Cc1ccccc1C(=O)OCCCCCC
+Poly(4-hexyloxycarbonylstyrene),339,C=Cc1ccc(C(=O)OCCCCCC)cc1
+Poly[4-(2-hydroxybutoxymethyl)styrene],319,C=Cc1ccc(COCC(O)CC)cc1
+Poly(4-[(1-hydroxyimino)-2phenethyl]styrene),384,C=Cc2ccc(/C(Cc1ccccc1)=N/O)cc2
+Poly(4-isobutoxycarbonylstyrene),363,C=Cc1ccc(C(=O)OCC(C)C)cc1
+Poly(2-isopentyloxycarbonylstyrene),341,C=Cc1ccccc1C(=O)OCC(C)(C)C
+Poly(2-isopentyloxymethylstyrene),351,C=Cc1ccccc1COCC(C)(C)C
+Poly(4-isopropoxycarbonylstyrene),368,C=Cc1ccc(C(=O)OC(C)C)cc1
+Poly(2-isopropoxymethylstyrene),361,C=Cc1ccccc1COC(C)C
+Poly(4-methoxymethylstyrene),350,C=Cc1ccc(COC)cc1
+Poly(4-octanoylstyrene),323,C=Cc1ccc(C(=O)CCCCCCC)cc1
+Poly(4-phenylacetylstyrene),351,C=Cc2ccc(C(=O)Cc1ccccc1)cc2
+Poly(4-propoxycarbonylstyrene),365,C=Cc1ccc(C(=O)OCCC)cc1
+Poly(4-propoxystyrene),343,C=Cc1ccc(OCCC)cc1
+Poly(4-p-toluoylstyrene),372,C=Cc2ccc(c1ccc(C)cc1)cc2
+Poly(4-valerylstyrene),343,C=Cc1ccc(C(=O)CCCC)cc1
+Poly(4-p-anisoylstyrene),376,C=Cc2ccc(Cc1ccc(OC)cc1)cc2
+Poly[4-(1-hydroxy-1-methylhexyl)styrene],364,C=Cc1ccc(C(C)(O)CCCCC)cc1
+Poly(4-methoxy-2-methylstyrene),358,C=Cc1ccc(OC)cc1C
+Poly(2-methoxystyrene),348,C=Cc1ccccc1OC
+Poly(4-phenoxystyrene),373,C=Cc2ccc(Oc1ccccc1)cc2
+Polystyrene,373,C=Cc1ccccc1
+Poly(4-fluorostyrene),376,C=Cc1ccc(cc1)F
+"Poly(2,5-difluorostyrene)",374,C=Cc1cc(F)ccc1F
+Poly(4-chlorostyrene),398,C=Cc1ccc(cc1)Cl
+Poly(2-chlorostyrene),395,C=Cc1ccccc1Cl
+Poly(4-bromostyrene),411,C=Cc1ccc(cc1)Br
+Poly(acrylic acid),374,OC(=O)C=C
+"Poly(2,2,3,3-tetrafluoropropyl acrylate)",249,FC(F)C(F)(F)COC(=O)C(=C)
+Poly(tert-butyl acrylate),311,C=CC(=O)OC(C)(C)C
+Poly(octadecyl acrylate),311,CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C
+Poly(n-octyl acrylate),208,CCCCCCCCOC(=O)C=C
+Poly(2-ethylhexyl acrylate),221,CCCCC(COC(=O)C=C)CC
+Poly(cyclohexyl acrylate),289,C=CC(=O)OC1CCCCC1
+Poly(cyanomethyl acrylate),296,C=CC(=O)OCC#N
+Poly(propyl-?-chloroacrylate,344,CCCOC(=O)C(=C)Cl
+Poly(ethyl-?-chloroacrylate,366,CCOC(=O)C(=C)Cl
+Poly(butyl-?-chloroacrylate),330,CCCCOC(=O)C(=C)Cl
+Poly(N-sec-butylacrylamide),390,C=CC(=O)NC(C)CC
+Poly(N-tert-butyl acrylamide),401,C=CC(=O)NC(C)(C)C
+Poly(N-octyl acrylamide),220,CCCCCCCCNC(=O)C=C
+Poly(N-isopropyl acrylamide),403,C=CC(=O)NC(C)C
+Poly(acrylamide),438,OC(=N)C=C
+Poly(acrylonitrile),383,C=CC#N
+Poly(methacrylonitrile),388,CC(=C)C#N
+Poly(butyl cyanoacrylate),374,CCCCOC(=O)C(=C)C#N
+Poly(octyl cyanoacrylate),322,CCCCCCCCOC(=O)C(=C)C#N
+Poly(hexyl cyanoacrylate),359,CCCCCCOC(=O)C(=C)C#N
+Poly(vinylidene fluoride),242,FC(=C)F
+Poly(vinyl bromide),373,BrC=C
+Poly(chlorotrifluoroethylene),360,FC(=C(F)F)Cl
+Poly(trimethylene terephthalate),327,OC(=O)c1ccc(cc1)C(=O)O.OCCCO
+"Poly(1,3-propylene succinate)",232,OC(=O)CCC(=O)O.OCCCO
+"Poly(1,3-propylene adipate)",215,OC(=O)CCCCC(=O)O.OCCCO
+Polylactic acid,332,OC(=O)C(O)C
+Poly(4-hydroxybutyrate),221,O= C1CCCO1
+Poly(3-hydroxybutyrate),276,CC1CC(=O)O1
+"Poly(1,6-hexylene succinate)",220,OC(=O)CCC(=O)O.OCCCCCCO
+"Poly(1,6-hexylene sebacate)",213,OC(=O)CCCCCCCCC(=O)O.OCCCCCCO
+Polyglycolic acid,312,O=C1OCC(=O)OC1
+Poly(ethylene terephthalate),344,OC(=O)c1ccc(cc1)C(=O)O.OCCO
+Poly(ethylene phthalate),297,OC(=O)c1ccccc1C(=O)O.OCCO
+"Poly(ethylene 2,6-naphthalate)",392,OC(=O)c1ccc2c(c1)ccc(c2)C(=O)O.OCCO
+Poly(ethylene isophthalate),324,OC(=O)c1cccc(c1)C(=O)O.OCCO
+Poly(ethylene adipate),230,OC(=O)CCCCC(=O)O.OCCO
+Poly(cyclohexanedimethylene terephthalate),364,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO
+Poly(caprolactone),208,O=C1CCCCCO1
+Poly(ethylene succinate),267,OC(=O)CCC(=O)O.OCCO
+Poly(ethylene sebacate),244,OC(=O)CCCCCCCCC(=O)O.OCCO
+Poly[(tetramethylene terephthalate),313,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO
+"Poly(1,4-butylene succinate)",237,OC(=O)CCC(=O)O.OCCCCO
+"Poly(1,4-butylene sebacate)",214,OC(=O)CCCCCCCCC(=O)O.OCCCCO
+Poly(tetramethylene isophthalate),297,OC(=O)c1cccc(c1)C(=O)O.OCCCCO
+Poly(butylene adipate),202,OC(=O)CCCCC(=O)O.OCCCCO
+Poly(Bisphenol A terephthalate),472,OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O
+Poly(bisphenol A isophthalate),462,OC(=O)c1cc(ccc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O
+"Poly[1,1-bis(chloromethyl)trimethylene oxide]",272,C1C(CO1)(CCl)CCl
+Poly(trimethylene glycol),197,C1CCO1
+Poly(tetramethylene glycol),189,C1CCCO1
+Poly(propylene glycol),200,CC1CO1
+Poly(methylene oxide-co-ethylene oxide),209,C1COCO1
+Poly[oxy(hexyloxymethyl)ethylene],189,CCCCCCOCC1CO1
+Poly(3-methoxypropylene oxide),211,COCC1CO1
+Poly(hexamethylene glycol),204,C1CCCCOC1
+Poly(ethylene glycol),225,O1CC1
+Poly(epichlorohydrin),252,ClCC1CO1
+Poly(3-butoxypropylene oxide),194,CCCCOCC1CO1
+Polymethylene glycol,211,C=O
+"Poly[oxy-1,4-phenylenesulfonyl-1,4-phenyleneoxy-1,4-phenylene(dimethylmethylene)-1,4-phenylene]",459,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl
+Poly(phenylsulfone),482,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl
+"Poly(oxy-1,4-phenylenesulfonyl-1,4-phenylene)",489,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O
+"Poly(oxy-1,4-phenyleneoxy-1,4-phenylenesulfonyl-1,4-phenylene)",479,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl
+Poly(propyleneketone),312,CC=C.[C-]#[O+]
+Poly(ethyleneketone),291,C=C.[C-]#[O+]
+Poly(ether ether ketone),437,c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2
+"Poly(1,2-butadiene)",268,C=CC=C
+"Poly(1-ethyl-1,4-butadiene)",197,CCC=CC=C
+Polyisoprene (cis),204,CC=CC=C
+Poly(1-pentenylene),178,C1CC=CC1
+Poly(nonamethylene teraphthalamide),394,NCCCCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl
+Poly(m-phenylene terephthalamide),537,Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl
+Poly(p-phenylene terephthalamide),600,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl
+Poly(hexamethylene teraphthalamide),412,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl
+Poly(decamethylene sebacamide),323,OC(=O)CCCCCCCCC(=O)O.NCCCCCCCCCCN
+Poly(iminohexamethyleneiminododecanedioyl),319,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O
+Poly(iminohexamethyleneiminosebacoyl)],323,OC(=O)CCCCCCCCC(=O)O.NCCCCCCN
+Poly(hexamethylene azelamide),332,OC(=O)CCCCCCCC(=O)O.NCCCCCCN
+Poly(hexamethylene adipamide),324,NCCCCCCN.OC(=O)CCCCC(=O)O
+Poly(dodecano-12-lactam),313,NCCCCCCCCCCCC(=O)O
+Poly(decano-10-lactam),315,NCCCCCCCCCC(=O)O
+Poly(octano-8-lactam),324,O=C1CCCCCCCN1
+Poly(6-aminohexanoic acid),324,O=C1CCCCCN1
+Poly(propano-3-lactam),384,C1CNC1=O
